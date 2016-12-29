@@ -1,5 +1,5 @@
 {
-    "name": "DigitalState/Platform-Admin-Bundle",
+    "name": "digitalstate/platform-admin-bundle",
     "type": "symfony-bundle",
     "description": "DigitalState Platform Admin Bundle",
     "homepage": "https://github.com/DigitalState/Platform-Admin-Bundle.git",
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.6",
-        "DigitalState/Platform-Entity-Bundle" : "dev-master"
+        "digitalstate/platform-entity-bundle" : "dev-master"
     },
     "autoload": {
         "psr-0": { "Ds\\Bundle\\AdminBundle": "" }
