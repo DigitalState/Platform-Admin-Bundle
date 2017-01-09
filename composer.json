@@ -17,7 +17,7 @@
         "digitalstate/platform-entity-bundle" : "dev-master"
     },
     "autoload": {
-        "psr-0": { "Ds\\Bundle\\AdminBundle": "" }
+        "psr-4": { "Ds\\Bundle\\AdminBundle\\": "" }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
