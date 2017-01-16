@@ -14,10 +14,10 @@
     "require": {
         "php": ">=5.6",
         "oro/platform": "1.10.*",
-        "digitalstate/platform-entity-bundle" : "dev-master"
+        "digitalstate/platform-entity-bundle" : "~0.1.0"
     },
     "autoload": {
-      "psr-4": { "Ds\\Bundle\\AdminBundle\\": "" }
+        "psr-4": { "Ds\\Bundle\\AdminBundle\\": "" }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
